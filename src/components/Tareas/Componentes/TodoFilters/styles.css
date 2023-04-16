@@ -1,0 +1,6 @@
+@media(max-width: 700px){
+    .ajuste-celular {
+        flex-flow: column wrap;
+    }
+}
+
